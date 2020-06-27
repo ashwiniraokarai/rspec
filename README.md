@@ -1,2 +1,2 @@
-# Houses rspec references from:
-# https://www.udemy.com/course/testing-ruby-with-rspec
+House rspec references from:
+https://www.udemy.com/course/testing-ruby-with-rspec
